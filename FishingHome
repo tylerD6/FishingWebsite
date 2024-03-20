@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <center>
+      <nav>
+        <li><a class=nav href="#Book">Book Now</a></li>
+        <li><a class=nav href="#Info">Trip Information</a></li>
+        <li><a class=nav href="#Merch">Merchandise</a></li>
+        
+      </nav>
+      <body>
+        <br>
+        <br>
+        <br>
+        <h1> 
+          
+          
+          </html>
+
+<style>
+nav{
+
+}
+li{
+  display:inline;
+  padding:30px;
+  font-size:35px;
+  color:white;
+  font-family:"copperplate";
+}
+body{
+  background:lightblue;
+}
+.nav{
+  color:darkblue;
+}
+
+
+</style>
